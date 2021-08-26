@@ -1,18 +1,49 @@
 <!DOCTYPE html>
+<!-- Jody Rodriguez-Nieves Southern Illinois University Carbondale Date: 8/26/2021 Date Tested: 8/26/2021 -->
 
 <head>
 	<meta charset="utf-8">
 	<title> SIUC eSports </title>
-  <meta name="description" content="shamelessly advertising SIUC eSports"> <meta name="keywords" content="gamer, games, esports, among, us, amogus, overwatch, csgo, cod">
+  	<meta name="description" content="Shamelessly advertising SIUC eSports"> 
+	<meta name="keywords" content="gamer, games, esports, among, us, amogus, overwatch, csgo, cod">
  </head>
- 
+
  <body>
   <header>
-    <img src="images/logo.png" alt="esports_logo" width="500">
+    <!-- logo of the RSO -->
+    <img src="logo.png" alt="logo.png" style="background-color:#4d0027;" width="300">
   </header>
+    <!-- Advertisement -->
     <h1>SIUC eSports</h1>
     <h2>Join Today!</h2>
-    <p>
-  
+    <p> For only a small price of $5 you could become part of our competitive teams and strive to be better
+	at any game! </p>
+    <p> Top games that we have at SIUC eSports </p>
+    <!-- list of games offered at siuc esports -->
+    <ul>
+	<li> Overwatch </li>
+	<li> Rocket League </li>
+	<li> CS:GO </li>
+	<li> Call of Duty </li>
+	<li> Super Smash Brothers </li>
+	<li> League of Legends </li>
+	<li> And more! </li>
+    </ul>
+    <!-- Contact Information -->
+    <p> If you would like more information about joining eSports please contact me, Jody Rodriguez-Nieves, at: </p>
+    <p> Email: jody.rodriguez-nieves@siu.edu </p>
+    <p> Discord: kirbyyoyo#2542 </p>
+    <a href="https://studentcenter.siu.edu/activities/esports/">To contact us via Discord click on this link!</a>
 
-	
+    <p> </p>
+    <!-- SIUC eSport's address -->
+    <address>
+    <p> <strong> SIUC eSports Address: </strong> </p>
+
+    <p> SIUC eSports Arena </p>
+    <p> 1255 Lincoln Drive  </p>
+    <p> Carbondale, IL 62901</p>
+    </address>
+    <p> <em> North End of the Student Center </em> </p>
+  </body>
+  </html>
